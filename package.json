@@ -1,0 +1,24 @@
+{
+  "name": "homework",
+  "version": "7.2.0",
+  "description": "nomework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seregaproo/nodejs.git"
+  },
+  "author": "seregaproo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seregaproo/nodejs/issues"
+  },
+  "homepage": "https://github.com/seregaproo/nodejs#readme",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "audiohub": "^0.1.0",
+    "cli-color": "^1.1.0"
+  }
+}
